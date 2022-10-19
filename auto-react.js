@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 
-const authorization = "";
-const channel = "";
+const authorization = ""; // Put auth key for discord user here
+const channel = ""; // Put channel ID here
 const checkReactDelay = 1000;
 const reactDelay = 333;
 
